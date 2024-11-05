@@ -1,0 +1,20 @@
+html {
+	background-color: #0b1416;
+	color: #ff784f;
+	text-decoration-color: #ff784f;
+	font-family: "Atkinson Hyperlegible", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 20px;
+}
+
+a {
+	color: #4fbaff;
+}
+
+ul {
+	padding: 10px;
+	border: 2px solid #ff784f;
+}
+
+li {
+	margin-left: 20px;
+}
