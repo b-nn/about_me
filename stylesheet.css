@@ -10,11 +10,50 @@ a {
 	color: #4fbaff;
 }
 
-ul {
-	padding: 10px;
+body {
+	margin: 1%;
+}
+
+img {
+	float: left;
 	border: 2px solid #ff784f;
+	margin-right: 10px;
+}
+
+header {
+	text-align: center;
+	position: fixed;
+	user-select: none;
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding: 0;
+}
+
+
+aside {
+	right: 15px;
+	text-align: right;
+	position: fixed;
+	user-select: none;
+	padding: 0;
 }
 
 li {
-	margin-left: 20px;
+	padding: 0px;
+	display: inline;
+}
+
+#links {
+	padding: 10px;
+	border: 2px solid #ff784f;
+	display: inline-block;
+	background: #0b1416;
+}
+
+#side {
+	padding: 10px;
+	border: 2px solid #ff784f;
+	display: block;
+	background: #0b1416;
 }
